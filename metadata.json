@@ -1,0 +1,5 @@
+{
+  "name": "Student ID Card Maker",
+  "description": "Create professional student ID cards by importing data from Excel, adding photos, and generating print-ready A4 PDFs with custom templates and signatures.",
+  "requestFramePermissions": []
+}
